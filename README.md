@@ -1,5 +1,6 @@
 # Frontend
 ## Description
+This is the Frontend of the Final project I and my Revature team created during our taining. The full project can be found https://github.com/OutOfTheParkAtRevature
 Out of the Park is an application to act as a central hub for coaches, parents, and players of youth sports leagues. Upon successful login, league managers will be able to add teams and game schedules to a central calendar. Coaches will be able to manage their team including creating practice schedules and meetings, make team announcements, create and manage plays in playbooks, and manage their team’s users. Parents will be able to view the team schedule, organize carpooling, and request replacements for team-branded gear that can be purchased at retail prices through the application. Players will be able to view their team’s schedule and create plays that can be submitted to the coach for approval. All users will be able to view team, player, and league statistics and send messages directly between two users or in groups.
 
 ## Installation
